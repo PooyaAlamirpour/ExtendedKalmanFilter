@@ -50,7 +50,8 @@ $ mkdir build && cd build
 $ ./ExtendedKF
 ```
 Once the project builds and runs successfully, run the simulator. You should see the below picture. A small car that generates green dots which is indicated the output of the Extended Kalman Filter.
-![Output](https://github.com/PooyaAlamirpour/BehavioralCloning/blob/master/Pictures/welcome-simulation.jpg)
+
+![Output](https://github.com/PooyaAlamirpour/ExtendedKalmanFilter/blob/master/Images/dataset1.png)
 
 
 ## References
